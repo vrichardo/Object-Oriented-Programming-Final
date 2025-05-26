@@ -3,7 +3,17 @@ This project was developed during my **Object-Oriented Programming II** class in
 
 This project is written entirely in **Java** and leverages object-oriented programming principles to develop a database system for an educational institution.
 
-## Key Concept
-## Project Structure
+## Key Concept Applied
+### Object Oriented Programming
+* Encapsulation
+* Abstraction
+* Inheritance
+* Polymorphism
+
 ## Tools and Technologies
+Eclipse IDE
+
 ## Team
+Vincent Richardo
+Aaron Besa
+
